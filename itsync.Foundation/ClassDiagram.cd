@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="itsync.Foundation.Behavior">
+    <Position X="0.5" Y="3.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Behavior.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="itsync.Foundation.Component">
+    <Position X="8.5" Y="3.5" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Component.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="itsync.Foundation.Item">
+    <Position X="26" Y="3.5" Width="5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="itsync.Foundation.Object">
+    <Position X="17" Y="0.5" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAABAAAAQAAAAABAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Object.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="itsync.Foundation.Option">
+    <Position X="27.5" Y="5.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Option.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="itsync.Foundation.Price">
+    <Position X="13.75" Y="3.5" Width="4.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="itsync.Foundation.Price.currency">
+        <TypeIdentifier>
+          <NewMemberFileName>Price.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAEgAAAAAAA=</HashCode>
+      <FileName>Price.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="itsync.Foundation.Product">
+    <Position X="31.75" Y="3.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAEAAAAAAACAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="itsync.Foundation.System">
+    <Position X="35.5" Y="3.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>System.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="Usages" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="itsync.Foundation.Usage">
+    <Position X="4.5" Y="3.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAACAAAACAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Usage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="itsync.Foundation.Vendor">
+    <Position X="19" Y="3.5" Width="6.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAACAAAAAAAAAAgBAAAAAAAAACAAAAAAAAgIA=</HashCode>
+      <FileName>Vendor.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Address" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="itsync.Foundation.helper.Collection&lt;T&gt;" Collapsed="true">
+    <Position X="38.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Collection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="itsync.Foundation.helper.Dateflag" Collapsed="true">
+    <Position X="40.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Dateflag.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.String" Collapsed="true">
+    <Position X="25.75" Y="2" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
