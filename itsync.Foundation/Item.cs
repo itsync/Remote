@@ -29,4 +29,6 @@ namespace itsync.Foundation
 			this.Value = szValue;
 		}
 	}
+
 }
+
