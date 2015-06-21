@@ -7,12 +7,12 @@ using System.Threading.Tasks;
 namespace itsync.Foundation
 {
 	/// <summary>
-	/// 描述一个项目及其对应的值。
+	/// 描述一个条目及其所对应的值。
 	/// </summary>
 	public class Item : Object
 	{
 		/// <summary>
-		/// 本项目所对应的值。
+		/// 本条目所对应的值。
 		/// 其长度不超过1024个英文字符。
 		/// </summary>
 		public string Value { set; get; }
