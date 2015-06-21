@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace itsync.Foundation.helper
 {
 	/// <summary>
-	/// 描述一个截至日期的相关信息。
+	/// 描述一个带有标志符号的日期。
 	/// </summary>
 	public class Dateflag
 	{
